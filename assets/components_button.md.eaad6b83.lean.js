@@ -1,0 +1,1 @@
+import{o as s,c as n,N as a}from"./chunks/framework.6ffbabdb.js";const t=a("",30),l=[t],D=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"components/button.md"}'),o={name:"components/button.md"},F=Object.assign(o,{setup(p){return(e,c)=>(s(),n("div",null,l))}});export{D as __pageData,F as default};

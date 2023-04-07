@@ -1,0 +1,1 @@
+import{_ as a,o as t,c as e,N as s}from"./chunks/framework.6ffbabdb.js";const u=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"guild/installation.md"}'),n={name:"guild/installation.md"},o=s("",2),l=[o];function i(c,r,p,_,d,h){return t(),e("div",null,l)}const f=a(n,[["render",i]]);export{u as __pageData,f as default};
